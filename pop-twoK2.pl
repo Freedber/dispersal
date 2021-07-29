@@ -4,17 +4,10 @@
 
 # Two species go head to head in this once in a lifetime competition to the death.  Who will win?  Species A
 # is equiped with a higher migration rate, better to infultrate other habitats, but that migration rate could
-# be it's undoing.  Or will the more conservative Species B claim the day?  By the end of 10,000 generations 
-# / this 20 minute simulaiton, who will be the victor?  Stay tuned to hear this story of love and loss, 
+# be its undoing.  Or will the more stationary Species B claim the day?  By the end of 
+# this 20-minute simulation, who will be the victor?  Stay tuned to hear this story of love and loss, 
 # bloodthirst and betrayal, infultration and intrigue whose ultimate resolution truly is a matter of life and 
 # death.
-
-
-
-# Tasks
-# lower mutation rate 10-5 (mess with cost benefit) pop size 100 100 (change)
-# find parameter space where 1 species can survive and not die
-# inter species migration rate stuff
 
 
 ############################################################
